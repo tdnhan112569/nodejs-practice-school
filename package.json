@@ -1,0 +1,30 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdnhan112569/nodejs-practice-school.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "NhanTD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdnhan112569/nodejs-practice-school/issues"
+  },
+  "homepage": "https://github.com/tdnhan112569/nodejs-practice-school#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "date-fns": "^2.0.0-alpha.27",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "readline-sync": "^1.4.9"
+  }
+}
