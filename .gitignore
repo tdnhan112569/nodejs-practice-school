@@ -1,2 +1,5 @@
 # ignore an entire directory
 /node_modules/
+
+#
+/package-lock.json
